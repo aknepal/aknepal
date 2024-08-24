@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/aknepal">AMAN</a>,</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/aknepal">AMAN</a> ![NepalFlagGIF](https://github.com/user-attachments/assets/6487ae8e-6eae-48e1-be15-34bb207cfa99)
+</h1>
 <h3 align="center">An Undergraduate Computer Engineering Student,<a href="https://www.ioepc.edu.np/">TU IOE,ERC-Dharan</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknepal&label=Profile%20views&color=0e75b6&style=flat" alt="aknepal" /> </p>
