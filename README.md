@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/aknepal">AMAN</a> ![NepalFlagGIF](https://github.com/user-attachments/assets/6487ae8e-6eae-48e1-be15-34bb207cfa99)
-</h1>
+<h2 align="center">Hi 👋, I'm <a href="https://github.com/aknepal">AMAN</a></h2>
 <h3 align="center">An Undergraduate Computer Engineering Student,<a href="https://www.ioepc.edu.np/">TU IOE,ERC-Dharan</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknepal&label=Profile%20views&color=0e75b6&style=flat" alt="aknepal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknepal" alt="aknepal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kulungaman024" target="blank"><img src="https://img.shields.io/twitter/follow/kulungaman024?logo=twitter&style=for-the-badge" alt="kulungaman024" /></a> </p>
 
-- 🔭Currently working on: **Nothing😥**
+- 🔭Currently working on: <a href=" ">**Nothing😥**</a> 
 
-- 🌱Currently learning: **Nothing🥲**
+- 🌱Currently learning:  <a href=" ">**Nothing😥**</a> 
 
-- 👯 I’m looking to collaborate on: **Everything🥰**
+- 😎 I’m looking to collaborate on:<a href=" "> **Everything🥰**</a>
 
-- 💬 Ask : **HTML,CSS**
+- 💬 Ask :<a href="https://www.w3schools.com/html/default.asp/">**HTML,**</a> <a href="https://www.w3schools.com/css/default.asp">**CSS**</a> 
 
-- 📫E-mail: **080bct010@ioepc.edu.np/amankulung97837@gmail.com**
-
-- ⚡ Fun fact: **🤡**
+- 📩 E-mail: **080bct010@ioepc.edu.np/amankulung97837@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
