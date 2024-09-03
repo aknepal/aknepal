@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknepal" alt="aknepal" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kulungaman024" target="blank"><img src="https://img.shields.io/twitter/follow/kulungaman024?logo=twitter&style=for-the-badge" alt="kulungaman024" /></a> </p>
 
-- 🔭Currently working on: <a href=" ">**Nothing😥**</a> 
+- 🔭Currently working on: <a href=" ">**Mini project on Cloud Computing & DDos Attack**</a> 
 
-- 🌱Currently learning:  <a href=" ">**Nothing😥**</a> 
+- 🌱Currently learning:  <a href=" ">**Cyber Security☠️**</a> 
 
-- 😎 I’m looking to collaborate on:<a href=" "> **Everything🥰**</a>
+- 😎 I’m looking to collaborate on:<a href=" "> **Cyber Security Based Projects⚛🤖**</a>
 
 - 💬 Ask :<a href="https://www.w3schools.com/html/default.asp/">**HTML,**</a> <a href="https://www.w3schools.com/css/default.asp">**CSS**</a> 
 
