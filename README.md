@@ -12,7 +12,7 @@
 
 - 😎 I’m looking to collaborate on:<a href=" "> **Cyber Security Based Projects⚛🤖**</a>
 
-- 💬 Ask :<a href="https://www.w3schools.com/html/default.asp">**HTML,**</a> <a href="https://www.w3schools.com/css/default.asp">**CSS**</a>  <a href="https://www.w3schools.com/css/default.asp">**Cyber Security-Authentication,Encryption & DDos Attack**</a> 
+- 💬 Ask :<a href="https://www.w3schools.com/html/default.asp">**HTML**||</a> <a href="https://www.w3schools.com/css/default.asp">**CSS**||</a>  <a href="https://www.w3schools.com/css/default.asp">**Cyber Security-Authentication,Encryption & DDos Attack**</a> 
 
 - 📩 E-mail: **080bct010@ioepc.edu.np/amankulung97837@gmail.com**
 
