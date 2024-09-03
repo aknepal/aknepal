@@ -1,4 +1,4 @@
-<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/aknepal">AMAN<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5SAZepM8qpBz_YpCIs_iCBW9UcA_BKMcTahkdqwKzyOIaF_jCUW4aQZVgn2mR9WRuao0&usqp=CAU"></a></h2>
+<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/aknepal">AMAN.<img src=""></a></h2>
 <h3 align="center">An Undergraduate Computer Engineering Student,<a href="https://www.ioepc.edu.np/">TU IOE,ERC-Dharan</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknepal&label=Profile%20views&color=0e75b6&style=flat" alt="aknepal" /> </p>
