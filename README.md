@@ -1,4 +1,4 @@
-<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/aknepal">AMAN.</a></h2>
+<h2 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://github.com/aknepal">AMAN 👨‍💻.</a></h2>
 <h3 align="center">An Undergraduate Computer Engineering Student,<a href="https://www.ioepc.edu.np/">TU IOE,ERC-Dharan</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknepal&label=Profile%20views&color=0e75b6&style=flat" alt="aknepal" /> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknepal" alt="aknepal" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kulungaman024" target="blank"><img src="https://img.shields.io/twitter/follow/kulungaman024?logo=twitter&style=for-the-badge" alt="kulungaman024" /></a> </p>
 
-- 🔭Currently working on: <a href=" ">**Mini project on Cloud Computing & DDos Attack**</a> 
+- 🔭Currently working on: <a href=" ">**Mini projects on Cloud Computing & DDos Attack**</a> 
 
 - 🌱Currently learning:  <a href=" ">**Cyber Security☠️**</a> 
 
