@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aknepal&label=Profile%20views&color=0e75b6&style=flat" alt="aknepal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknepal" alt="aknepal" /></a> </p>
-<p align="left"> <a href="https://twitter.com/kulungaman024" target="blank"><img src="https://img.shields.io/twitter/follow/kulungaman024?logo=twitter&style=for-the-badge" alt="kulungaman024" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kulungaman024" target="blank"><img src="https://img.shields.io/twitter/follow/kulungaman024?logo=twitter&style=for-the-badge" alt="kulungamans" /></a> </p>
 
 - 🔭Currently working on: <a href=" ">**______**</a> 
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask :<a href="https://www.w3schools.com/html/default.asp"> ______</a> <a href="https://www.w3schools.com/css/default.asp">______</a>  <a href="https://www.w3schools.com/css/default.asp">___________</a> 
 
-- 📩 E-mail: **080bct010@ioepc.edu.np/amankulung97837@gmail.com**
+- 📩 E-mail: **amankulung97837@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
