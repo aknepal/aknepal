@@ -6,21 +6,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aknepal" alt="aknepal" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kulungaman024" target="blank"><img src="https://img.shields.io/twitter/follow/kulungaman024?logo=twitter&style=for-the-badge" alt="kulungaman024" /></a> </p>
 
-- 🔭Currently working on: <a href=" ">**Mini projects on Cloud Computing & DDos Attack**</a> 
+- 🔭Currently working on: <a href=" ">**______**</a> 
 
-- 🌱Currently learning:  <a href=" ">**Cyber Security☠️**</a> 
+- 🌱Currently learning:  <a href=" ">_______</a> 
 
-- 😎 I’m looking to collaborate on:<a href=" "> **Cyber Security Based Projects⚛🤖**</a>
+- 😎 I’m looking to collaborate on:<a href=" "> **___________**</a>
 
-- 💬 Ask :<a href="https://www.w3schools.com/html/default.asp">**HTML** ||</a> <a href="https://www.w3schools.com/css/default.asp">**CSS** || </a>  <a href="https://www.w3schools.com/css/default.asp">**Cyber Security-Authentication,Encryption & DDos Attack**</a> 
+- 💬 Ask :<a href="https://www.w3schools.com/html/default.asp"> ______</a> <a href="https://www.w3schools.com/css/default.asp">______</a>  <a href="https://www.w3schools.com/css/default.asp">___________</a> 
 
 - 📩 E-mail: **080bct010@ioepc.edu.np/amankulung97837@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kulungaman024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulungaman024" height="30" width="40" /></a>
-<a href="https://fb.com/koolungaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koolungaman" height="30" width="40" /></a>
-<a href="https://instagram.com/koolungaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koolungaman" height="30" width="40" /></a>
+<a href="https://twitter.com/kulungamans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kulungamans" height="30" width="40" /></a>
+<a href="https://fb.com/kulungamans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kulungamans" height="30" width="40" /></a>
+<a href="https://instagram.com/kulungamans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kulungamans" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
